@@ -1,0 +1,25 @@
+:root {
+--cor-tituloVitrine: #41697A;
+--cor-nomeDepoimento: #000000;
+--cor-localDepoimento: #41697A;
+--cor-textoDepoimento: #000000;
+--cor-tituloRodape: #41697A;
+--cor-textoRodape: #000000;
+--cor-textoRodapeHover: #000000;
+--cor-nomeProduto: #344247;
+--cor-textoFrete: #1EA8E1;
+--cor-botaoRastreioHover: #41697A;
+--cor-textoBotaoRastreio: #41697A;
+--cor-textoParcelas: #000000;
+--cor-textoCalcularCep: #000000;
+
+.text-parcelas {
+    color: black;
+}
+
+.accordion-body > div > ul > li > span {
+    color: black;
+}
+
+#formCalcularCep > label {
+    color: black;
