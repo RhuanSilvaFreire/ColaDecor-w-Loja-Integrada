@@ -1,0 +1,21 @@
+// DEPOIMENTOS
+DEPOIMENTOS = [
+{
+imagem: 'https://cdn.awsli.com.br/2699/2699016/arquivos/f1.jpg',
+nome:  'Marcela Xavier ',
+local: 'Caruaru - PE',
+depoimento: 'Estou impressionada com a qualidade do produto! Minha sala ganhou um novo ar, muito mais elegante e aconchegante. A aplicação foi fácil e o atendimento foi excelente. '
+},
+{
+imagem: ' https://cdn.awsli.com.br/2699/2699016/arquivos/f2.jpg',
+nome: 'Juan Garcia',
+local: 'Atibaia - SP',
+depoimento: 'Qualidade do papel muito boa, recomendo. Ótimo custo benefício!'
+},
+{
+imagem: 'https://cdn.awsli.com.br/2699/2699016/arquivos/f3.jpg',
+nome: 'Rhuan Freire',
+local: 'São Paulo - SP',
+depoimento: 'O papel de parede que comprei para meu rack da sala fez toda a diferença. Ficou com um visual moderno e elegante. A qualidade do material é excelente e a aplicação foi tranquila. Estou muito satisfeito com o produto..'
+},
+];
